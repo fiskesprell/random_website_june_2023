@@ -13,13 +13,13 @@ h2{
     font-size: 40px;
     margin-top: 10px;
     text-decoration-line: underline;
-    color: #C9C9C9;
+    color: #ffcb00;
     font-size: 30px;
 }
 a {
     text-decoration: none;
     font-family: 'Fuzzy Bubbles', cursive;
-    padding-left: 15px;
+    padding-left: 12px;
     color: #FFF;
     font-size: 18px;
 }
@@ -45,6 +45,7 @@ main {
 
 #Entertainment{
     width: 230px;
+    padding-right: 30px;
     grid-column: 2;
     grid-row: 2;
 }
@@ -57,20 +58,24 @@ main {
 #Lists {
     grid-column: 3;
     grid-row: 3;
+    background-color: #9055A2;
 }
 
 #PersLife {
     grid-column: 2;
     grid-row: 3;
+    background-color: #305252;
 }
 
 #Piracy_DL{
+    background-color: #C1292E;
     width: 260px;
     grid-column: 6;
     grid-row: 2;
 }
 
 #Piracy_stream{
+    background-color: #C52184;
     width: 260px;
     grid-column: 6;
     grid-row: 3;
