@@ -2,7 +2,7 @@ main {
     background-color: #2E1F27;
 }
 
-html, body {margin: 0; height: 100%; overflow: hidden; background-color: #2E1F27}
+html, body {overflow: hidden; background-color: #2E1F27}
 
 /* Fonts */
 
@@ -38,8 +38,8 @@ li:not(:last-child) {
 
 main {
     display: grid;
-    grid-template-columns: repeat(6, 210px);
-    grid-template-rows: repeat(4, 210px);
+    grid-template-columns: repeat(6, 14vw);
+    grid-template-rows: repeat(4, 13vw);
     gap: 15px;
 }
 
@@ -106,6 +106,6 @@ main {
 div{
     background-color: #854D27;
     border-radius: 20px;
-    min-height: 210px;
-    min-width: 210px;
+    /* min-height: 210px;
+    min-width: 210px; */
 }
