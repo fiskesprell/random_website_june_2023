@@ -1,5 +1,5 @@
 main {
-    background-color: #998BC1;
+    background-color: #2E1F27;
 }
 
 html, body {overflow: hidden; background-color: #2E1F27}
@@ -13,7 +13,7 @@ h2{
     font-size: 40px;
     margin-top: 10px;
     text-decoration-line: underline;
-    color: #A79579;
+    color: #ffcb00;
     font-size: 30px;
 }
 a {
@@ -44,7 +44,7 @@ main {
 }
 
 #Entertainment{
-    width: 260px;
+    width: 230px;
     padding-right: 30px;
     grid-column: 2;
     grid-row: 2;
